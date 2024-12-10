@@ -2,6 +2,9 @@
 
 This project processes images and text to train or generate models using Stable Diffusion. It builds upon concepts demonstrated in [Hugging Face’s Dreambooth Training Notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_dreambooth_training.ipynb) and [Stable Diffusion Notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb). The code and methodology are inspired by these sources and are tailored to this project.
 
+For more details on the project, please visit [this page](https://sites.google.com/view/01fe20bec260genai/home?authuser=0).
+
+
 Follow the steps below to set up, create the dataset, and run the code.
 
 ## Installation
